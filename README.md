@@ -36,9 +36,9 @@ Assuming that the company is to replace every retiring employee, there are ~60 m
 
 3. The criteria established in the challenge for mentorship eligibility is a bit confusing. If the retireea are employees born between 1952 and 1955, there is no real reason for the mentorship eligibility criteria to be so narrow. Modifying the birth_date critertion to everbody born between 1956 and 1965, there are over 167,000 employees avialble for mentorship. The query used to arrive at this number is shown below:
 
-![Mentorship](Data/query_Mentorship_Wide.png)
+![Mentorship](Data/Query_Mentorship_Wide.png)
 
 Grouping the eligible employees by title, it can be seen that there are enough employees in every title group available for mentorship. 
 
-![Mentors by Title](Data/Mentors_BY_Title.png)
+![Mentors by Title](Data/Mentors_By_Title.png)
 
